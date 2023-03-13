@@ -1,0 +1,176 @@
+body{
+    background-image: url("neetflix-homepage-images/netflixbackground.jpg");
+    height: 145vh;
+    font-family: sans-serif;
+
+}
+
+.netflix-logo{
+    color: #E50914;
+    margin-left: 20px;
+    font-size: 55px;
+    margin-top: 0%;
+    
+    width: 180px;
+    padding: 5px;
+    
+}
+
+.signinborder{
+    border: solid black 1px;
+    height: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    border-radius: 5px;
+    background-color: black;
+    padding-bottom: 5px;
+
+}
+
+
+    
+a , .submit{
+    color: white;
+    text-decoration: none;
+    opacity: 110% !important;
+}
+
+.submit{
+    background-color: #E50914;
+    color: white;
+    width: 310px;
+    height: 40px;
+    border: solid #E50914 1px;
+    border-radius: 5px;
+    margin-left: 75px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+.signin{
+margin-top: 70px;    
+color: white;
+opacity: 100%;
+margin-left: 75px;
+
+}
+
+.input{  
+    width: 300px;
+    height: 40px;
+    margin-left: 75px;
+    border-radius: 5px;
+    background-color: #333;
+    border: solid #333 1px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+    font-weight: 400;
+    margin-bottom: 25px
+    
+
+     
+}
+
+.rememberme{
+
+    font-size: 13px;
+    margin: 0px 0px 5px 5px;
+    
+    color: lightgrey;
+    display: inline;
+    
+
+    
+}
+
+.checkbox{
+    height: 15px;
+    width: 15px;
+    margin-left: 75px;
+    accent-color: grey;
+    color: black;
+    
+    
+    
+    
+}
+
+.needhelp {
+    color: lightgrey;
+    
+    display: inline;
+    margin-left: 120px;
+    font-size: 13px;
+    
+}
+
+.newtonetflix{
+    color: gray;
+    margin-left: 75px;
+}
+
+.signupnow{
+
+    margin-left: 5px;
+    display: inline;
+}
+
+.protectedbycaptcha{
+    margin-left: 75px;
+    color: gray;
+    font-size: 12px;
+}
+
+.learnmore{
+    color: blue;
+}
+
+.line{
+    border:solid grey 1 px;
+    width: 20px;
+}
+
+hr{
+    color: #333;
+    width: 450px;
+    margin-top: 50px;
+}
+
+.bottom{
+
+    margin-left: 75px;
+    color: grey;
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+
+.helpcenter{
+    display: inline;
+}
+
+.inline{
+    display: inline;
+}
+
+.column{
+    padding-left: 50px;
+}
+
+td a{
+    color: grey;
+}
+
+.dropdown{
+    width: 100px;
+    height: 30px;
+    padding-left: 20px;
+    background-color: black;
+    color: grey;
+    border: solid #333 1px;
+    border-radius:3px ;
+}
